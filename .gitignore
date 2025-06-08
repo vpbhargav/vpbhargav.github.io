@@ -1,4 +1,28 @@
-_site/
-.sass-cache/
-node_modules
-.DS_STORE
+# Hugo build output
+/public/
+/resources/_gen/
+
+# Backup directory
+backup/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules (if using npm)
+node_modules/
+
+# Hugo cache
+.hugo_build.lock
