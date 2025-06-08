@@ -1,6 +1,6 @@
 ---
 title: "Welcome to My Blog!"
-date: 2025-01-07T17:53:00-07:00
+date: 2025-06-07T17:53:00-07:00
 draft: false
 tags: ["welcome", "personal", "blogging"]
 categories: ["Personal"]

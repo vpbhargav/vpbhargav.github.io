@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-date: 2025-01-07T17:52:00-07:00
+date: 2025-06-07T17:52:00-07:00
 draft: false
 showToc: false
 TocOpen: false
