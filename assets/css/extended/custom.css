@@ -1,0 +1,53 @@
+/* Custom styles for theme toggle positioning */
+.nav ul#menu {
+    display: flex;
+    align-items: center;
+}
+
+.nav ul#menu .separator {
+    margin: 0 12px;
+    color: var(--secondary);
+    font-weight: 300;
+}
+
+.nav ul#menu li:has(.separator) {
+    display: flex;
+    align-items: center;
+}
+
+/* Ensure theme toggle button styling */
+#theme-toggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+#theme-toggle:hover {
+    background-color: var(--theme);
+}
+
+#theme-toggle svg {
+    fill: none;
+    stroke: var(--primary);
+}
+
+/* Hide sun icon in dark mode, show moon */
+.dark #theme-toggle #sun {
+    display: none;
+}
+
+.dark #theme-toggle #moon {
+    display: block;
+}
+
+/* Hide moon icon in light mode, show sun */
+body:not(.dark) #theme-toggle #moon {
+    display: none;
+}
+
+body:not(.dark) #theme-toggle #sun {
+    display: block;
+}

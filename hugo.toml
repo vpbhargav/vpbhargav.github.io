@@ -1,6 +1,6 @@
 baseURL = "https://vpbhargav.github.io/"
 languageCode = "en-us"
-title = "Bhargava Varadharajan"
+title = "Bhargava's Portfolio & Blog"
 theme = "PaperMod"
 
 # Disable Google Analytics
@@ -14,7 +14,7 @@ services = {}
     title = "Bhargava Varadharajan"
     subtitle = "Software Engineer"
     description = "Engineer with keen interest in distributed systems and scale. Work on ML&AI infra at AWS and always on the lookout for side projects to work on. Outdoorsman with a goal to visit all national parks in the US by 2030."
-    imageUrl = ""
+    imageUrl = "https://media.licdn.com/dms/image/v2/D5603AQF17veMLaufXg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1680290328236?e=1755129600&v=beta&t=2MhG_czFAZFaq6tgKLqyVgvky101AXXB7afG67lzaos"
     imageTitle = "Bhargava Varadharajan"
     
     [[params.profileMode.buttons]]
