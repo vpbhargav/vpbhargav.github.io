@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bhargava Varadharajan</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Bhargava Varadharajan</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2025 17:53:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to My Blog!</title>
+      <link>http://localhost:1313/posts/welcome-to-my-blog/</link>
+      <pubDate>Tue, 07 Jan 2025 17:53:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/welcome-to-my-blog/</guid>
+      <description>Welcome to my personal blog where I&amp;#39;ll share thoughts on technology, outdoor adventures, and life in general.</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Tue, 07 Jan 2025 17:52:00 -0700</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;current-projects&#34;&gt;Current Projects&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Coming soon! I&amp;rsquo;m always working on interesting side projects and will be sharing them here.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Distributed Systems&lt;/strong&gt;: Building scalable, fault-tolerant systems&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ML Infrastructure&lt;/strong&gt;: Tools and platforms for machine learning at scale&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Performance Optimization&lt;/strong&gt;: Making systems faster and more efficient&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Developer Tools&lt;/strong&gt;: Creating better experiences for engineers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;open-source-contributions&#34;&gt;Open Source Contributions&lt;/h2&gt;
+&lt;p&gt;I believe in giving back to the open source community. You can find my contributions and personal projects on &lt;a href=&#34;https://github.com/vpbhargav&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 07 Jan 2025 17:49:00 -0700</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;hello-&#34;&gt;Hello! 👋&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m Bhargava, a Software Engineer passionate about distributed systems and scale. Currently, I work on ML &amp;amp; AI infrastructure at AWS, where I get to tackle some fascinating challenges in building systems that power machine learning at scale.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-do&#34;&gt;What I Do&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Professional&lt;/strong&gt;: Building and scaling ML &amp;amp; AI infrastructure at AWS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Interests&lt;/strong&gt;: Distributed systems, system design, performance optimization&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Side Projects&lt;/strong&gt;: Always looking for interesting problems to solve and new technologies to explore&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;beyond-code&#34;&gt;Beyond Code&lt;/h2&gt;
+&lt;p&gt;When I&amp;rsquo;m not coding, you&amp;rsquo;ll find me:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,99 @@
+baseURL = "https://vpbhargav.github.io/"
+languageCode = "en-us"
+title = "Bhargava Varadharajan"
+theme = "PaperMod"
+
+[params]
+  # Profile mode
+  [params.profileMode]
+    enabled = true
+    title = "Bhargava Varadharajan"
+    subtitle = "Software Engineer"
+    description = "Engineer with keen interest in distributed systems and scale. Work on ML&AI infra at AWS and always on the lookout for side projects to work on. Outdoorsman with a goal to visit all national parks in the US by 2030."
+    imageUrl = ""
+    imageTitle = "Bhargava Varadharajan"
+    
+    [[params.profileMode.buttons]]
+      name = "Blog"
+      url = "/posts"
+    
+    [[params.profileMode.buttons]]
+      name = "About"
+      url = "/about"
+    
+    [[params.profileMode.buttons]]
+      name = "Projects"
+      url = "/projects"
+
+  # Social icons
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:bhargavavaradh@gmail.com"
+  
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/twbhargav"
+  
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/vpbhargav"
+  
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/bhargavav/"
+  
+  [[params.socialIcons]]
+    name = "cv"
+    url = "https://drive.google.com/file/d/1YnHD2AFFOxUgw0s9F6LF0I6xILOOGRts/view?usp=sharing"
+
+  # Theme settings
+  defaultTheme = "dark"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 20
+  
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 30
+  
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 40
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    style = "github-dark"

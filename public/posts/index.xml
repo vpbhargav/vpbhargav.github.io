@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Bhargava Varadharajan</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Bhargava Varadharajan</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2025 17:53:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to My Blog!</title>
+      <link>http://localhost:1313/posts/welcome-to-my-blog/</link>
+      <pubDate>Tue, 07 Jan 2025 17:53:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/welcome-to-my-blog/</guid>
+      <description>Welcome to my personal blog where I&amp;#39;ll share thoughts on technology, outdoor adventures, and life in general.</description>
+    </item>
+  </channel>
+</rss>
