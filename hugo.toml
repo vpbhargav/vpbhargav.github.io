@@ -3,6 +3,10 @@ languageCode = "en-us"
 title = "Bhargava Varadharajan"
 theme = "PaperMod"
 
+# Disable Google Analytics
+disableKinds = []
+services = {}
+
 [params]
   # Profile mode
   [params.profileMode]
