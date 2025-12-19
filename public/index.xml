@@ -1,84 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bhargava&#39;s Portfolio &amp; Blog</title>
-    <link>http://localhost:50708/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Bhargava&#39;s Portfolio &amp; Blog</description>
-    <generator>Hugo -- 0.147.8</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Jun 2025 20:45:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:50708/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Things to Explore</title>
-      <link>http://localhost:50708/notes/explore/</link>
+      <link>http://localhost:1313/notes/explore/</link>
       <pubDate>Sun, 08 Jun 2025 20:45:00 -0700</pubDate>
-      <guid>http://localhost:50708/notes/explore/</guid>
-      <description>&lt;h2 id=&#34;things-to-explore-&#34;&gt;Things to Explore 🔍&lt;/h2&gt;
-&lt;p&gt;My personal learning backlog and curiosity tracker. This is where I collect technologies, concepts, books, and topics that have caught my interest and deserve deeper exploration.&lt;/p&gt;
-&lt;h2 id=&#34;technologies--tools&#34;&gt;Technologies &amp;amp; Tools&lt;/h2&gt;
-&lt;h3 id=&#34;-want-to-learn&#34;&gt;🔧 Want to Learn&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Technologies I want to dive deeper into&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[Add technologies you want to explore here]&lt;/strong&gt;&lt;/p&gt;
-&lt;h3 id=&#34;-experiment-with&#34;&gt;🧪 Experiment With&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Tools and frameworks to try out&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[Add tools/frameworks to experiment with here]&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;concepts--topics&#34;&gt;Concepts &amp;amp; Topics&lt;/h2&gt;
-&lt;h3 id=&#34;-deep-dives&#34;&gt;📚 Deep Dives&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Complex topics that need dedicated study time&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/notes/explore/</guid>
+      <description>&lt;h2 id=&#34;things-to-explore&#34;&gt;Things to Explore&lt;/h2&gt;&#xA;&lt;p&gt;My personal learning backlog and curiosity tracker. This is where I collect technologies, concepts, books, and topics that have caught my interest and deserve deeper exploration.&lt;/p&gt;&#xA;&lt;h2 id=&#34;technologies--tools&#34;&gt;Technologies &amp;amp; Tools&lt;/h2&gt;&#xA;&lt;h3 id=&#34;want-to-learn&#34;&gt;Want to Learn&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Technologies I want to dive deeper into&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;How 2FA authenticator apps work&lt;/li&gt;&#xA;&lt;li&gt;Rust (the programming language)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;experiment-with&#34;&gt;Experiment With&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Tools and frameworks to try out&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AI stack - Strands SDK, vLLM, LiteLLM, Daft&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;reading-list&#34;&gt;Reading List&lt;/h2&gt;&#xA;&lt;h3 id=&#34;-books&#34;&gt;📖 Books&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Books on my to-read list&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Project Ideas</title>
-      <link>http://localhost:50708/notes/project-ideas/</link>
+      <link>http://localhost:1313/notes/project-ideas/</link>
       <pubDate>Sun, 08 Jun 2025 20:40:00 -0700</pubDate>
-      <guid>http://localhost:50708/notes/project-ideas/</guid>
-      <description>&lt;h2 id=&#34;project-ideas-&#34;&gt;Project Ideas 💡&lt;/h2&gt;
-&lt;p&gt;This is my brainstorming space for product and project concepts. Some ideas are just sparks of inspiration, others are more thought-out concepts. I use this space to think out loud and develop ideas over time.&lt;/p&gt;
-&lt;h2 id=&#34;current-ideas&#34;&gt;Current Ideas&lt;/h2&gt;
-&lt;h3 id=&#34;-active-thinking&#34;&gt;🚀 Active Thinking&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Ideas I&amp;rsquo;m actively developing or considering&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Blogging app that captures user audio and uses LLM to clean up and create posts. LLMs are great but I feel audio will be the next major thing in pushing the boundary in the space. Working on this will also help me learn a few things :)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Welcome to My Blog!</title>
-      <link>http://localhost:50708/posts/welcome-to-my-blog/</link>
-      <pubDate>Sat, 07 Jun 2025 17:53:00 -0700</pubDate>
-      <guid>http://localhost:50708/posts/welcome-to-my-blog/</guid>
-      <description>Welcome to my personal blog where I&amp;#39;ll share thoughts on technology, outdoor adventures, and life in general.</description>
+      <guid>http://localhost:1313/notes/project-ideas/</guid>
+      <description>&lt;h2 id=&#34;project-ideas-&#34;&gt;Project Ideas 💡&lt;/h2&gt;&#xA;&lt;p&gt;This is my brainstorming space for product and project concepts. Some ideas are just sparks of inspiration, others are more thought-out concepts. I use this space to think out loud and develop ideas over time.&lt;/p&gt;&#xA;&lt;h2 id=&#34;current-ideas&#34;&gt;Current Ideas&lt;/h2&gt;&#xA;&lt;h3 id=&#34;-active-thinking&#34;&gt;🚀 Active Thinking&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Ideas I&amp;rsquo;m actively developing or considering&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;-seeds&#34;&gt;🌱 Seeds&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Early-stage ideas that need more development&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Blogging app that captures user audio and uses LLM to clean up and create posts. LLMs are great but I feel audio will be the next major thing in pushing the boundary in the space. Working on this will also help me learn a few things :)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:50708/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Sat, 07 Jun 2025 17:52:00 -0700</pubDate>
-      <guid>http://localhost:50708/projects/</guid>
-      <description>&lt;h2 id=&#34;current-projects&#34;&gt;Current Projects&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Coming soon! I&amp;rsquo;m always working on interesting side projects and will be sharing them here.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Distributed Systems&lt;/strong&gt;: Building scalable, fault-tolerant systems&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;ML Infrastructure&lt;/strong&gt;: Tools and platforms for machine learning at scale&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Performance Optimization&lt;/strong&gt;: Making systems faster and more efficient&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Developer Tools&lt;/strong&gt;: Creating better experiences for engineers&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;open-source-contributions&#34;&gt;Open Source Contributions&lt;/h2&gt;
-&lt;p&gt;I believe in giving back to the open source community. You can find my contributions and personal projects on &lt;a href=&#34;https://github.com/vpbhargav&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;current-projects&#34;&gt;Current Projects&lt;/h2&gt;&#xA;&lt;p&gt;*Coming soon!&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Distributed Systems&lt;/strong&gt;: Building scalable, fault-tolerant systems&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ML Infrastructure&lt;/strong&gt;: Tools and platforms for machine learning at scale&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Performance Optimization&lt;/strong&gt;: Making systems faster and more efficient&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Developer Tools&lt;/strong&gt;: Creating better experiences for engineers&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;open-source-contributions&#34;&gt;Open Source Contributions&lt;/h2&gt;&#xA;&lt;p&gt;I believe in giving back to the open source community. You can find my contributions and personal projects on &lt;a href=&#34;https://github.com/vpbhargav&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;collaboration&#34;&gt;Collaboration&lt;/h2&gt;&#xA;&lt;p&gt;Always interested in collaborating on interesting projects! If you have an idea or want to work together on something, feel free to reach out.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:50708/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sat, 07 Jun 2025 17:49:00 -0700</pubDate>
-      <guid>http://localhost:50708/about/</guid>
-      <description>&lt;h2 id=&#34;hello-&#34;&gt;Hello! 👋&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;m Bhargava, a Software Engineer passionate about distributed systems and scale. Currently, I work on ML &amp;amp; AI infrastructure at AWS, where I get to tackle some fascinating challenges in building systems that power machine learning at scale.&lt;/p&gt;
-&lt;h2 id=&#34;what-i-do&#34;&gt;What I Do&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Professional&lt;/strong&gt;: Building and scaling ML &amp;amp; AI infrastructure at AWS&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Interests&lt;/strong&gt;: Distributed systems, system design, performance optimization&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Side Projects&lt;/strong&gt;: Always looking for interesting problems to solve and new technologies to explore&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;beyond-code&#34;&gt;Beyond Code&lt;/h2&gt;
-&lt;p&gt;When I&amp;rsquo;m not coding, you&amp;rsquo;ll find me:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;hello-there-&#34;&gt;Hello there! 👋&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m Bhargava, a Software Engineer passionate about distributed systems and scale. Currently, I work on ML &amp;amp; AI infrastructure at AWS, where I get to tackle some fascinating challenges in building systems that power machine learning at scale.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-i-do&#34;&gt;What I Do&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Professional&lt;/strong&gt;: Building and scaling ML &amp;amp; AI infrastructure at AWS&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Interests&lt;/strong&gt;: Distributed systems, system design, performance optimization&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Side Projects&lt;/strong&gt;: Always looking for interesting problems to solve and new technologies to explore&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;beyond-code&#34;&gt;Beyond Code&lt;/h2&gt;&#xA;&lt;p&gt;When I&amp;rsquo;m not coding, you&amp;rsquo;ll find me:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

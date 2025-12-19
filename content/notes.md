@@ -30,10 +30,10 @@ This is my digital notebook where I capture ideas, thoughts, and things I want t
 
 ## What You'll Find Here
 
-### 💡 [Project Ideas](/notes/project-ideas/)
+###  [Project Ideas](/notes/project-ideas/)
 A collection of product and project concepts I'm thinking about. Some might be half-baked ideas, others more developed thoughts. This is where I brainstorm and think through potential side projects or interesting problems to solve.
 
-### 🔍 [Things to Explore](/notes/explore/)
+### [Things to Explore](/notes/explore/)
 A running list of technologies, concepts, books, and topics I want to dive deeper into. Consider this my personal learning backlog and curiosity tracker.
 
 ## Why Public Notes?

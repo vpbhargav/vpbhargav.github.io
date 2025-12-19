@@ -34,23 +34,13 @@ This is my brainstorming space for product and project concepts. Some ideas are 
 
 *Ideas I'm actively developing or considering*
 
-- Blogging app that captures user audio and uses LLM to clean up and create posts. LLMs are great but I feel audio will be the next major thing in pushing the boundary in the space. Working on this will also help me learn a few things :)
-
-- NotebookLM but for personalized news. User should be able to link to their news apps (NYT) or aggregators (Reddit). The app should process the top stories and create a podcast like new summary for the user everyday. 
-
-**[Add your current project ideas here]**
-
 ### 🌱 Seeds
 
 *Early-stage ideas that need more development*
 
-**[Add your seed ideas here]**
+- Blogging app that captures user audio and uses LLM to clean up and create posts. LLMs are great but I feel audio will be the next major thing in pushing the boundary in the space. Working on this will also help me learn a few things :)
 
-### 🔄 Revisit Later
-
-*Ideas that might be worth exploring in the future*
-
-**[Add ideas to revisit here]**
+- NotebookLM but for personalized news. User should be able to link to their news apps (NYT) or aggregators (Reddit). The app should process the top stories and create a podcast like new summary for the user everyday. 
 
 ## Idea Development Framework
 
@@ -68,4 +58,4 @@ Some ideas from this list might graduate to actual projects. When they do, I'll 
 
 ---
 
-*Last updated: June 8, 2025*
+*Last updated: Dec 18, 2025*

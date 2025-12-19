@@ -26,7 +26,7 @@ cover:
 
 ## Current Projects
 
-*Coming soon! I'm always working on interesting side projects and will be sharing them here.*
+*Coming soon! 
 
 ## Areas of Interest
 
