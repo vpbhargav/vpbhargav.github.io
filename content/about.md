@@ -1,6 +1,5 @@
 ---
 title: "About Me"
-date: 2025-06-07T17:49:00-07:00
 draft: false
 showToc: false
 TocOpen: false
@@ -10,11 +9,11 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: false
-ShowReadingTime: true
+ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
+ShowWordCount: false
+ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 cover:
     image: ""

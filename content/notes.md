@@ -1,6 +1,5 @@
 ---
 title: "Notes"
-date: 2025-06-08T20:38:00-07:00
 draft: false
 showToc: true
 TocOpen: false
@@ -10,7 +9,7 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: false
-ShowReadingTime: true
+ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
