@@ -47,8 +47,8 @@ So I chose to get a new piece of hardware, and my initial choice was a Raspberry
 
 A refurbished HP ProDesk G5 is what I ended up getting! I wanted to ensure it was an Intel chip to ensure maximum compatibility with applications. I didn't want to go crazy on the storage either, and if I ever wanted to expand to hosting media, I just wanted to get a NAS instead of using up primary storage on the server. I plugged in my Mint Live USB to quickly validate everything works as expected and woohoo - Step 0 of the homelab setup is done!
 
-![HP ProDesk G5](/posts/homelab-journey-1/hp-g5.jpg)
-![HP ProDesk G5 Specs](/posts/homelab-journey-1/hp-g5-specs.jpg)
+![HP ProDesk G5](/blog/homelab-journey-1/hp-g5.jpg)
+![HP ProDesk G5 Specs](/blog/homelab-journey-1/hp-g5-specs.jpg)
 
 ## Hogwarts School of Virtualization and Containercraft
 
@@ -56,7 +56,7 @@ Once I validated the hardware works with a live USB, the next thing to do was fl
 
 I also got introduced to LXC (Linux Containers) through this and the massive collection of [helper scripts](https://community-scripts.github.io/ProxmoxVE/scripts) (OSS ftw!). For now, I have chosen to use LXCs only for some applications and put most in an Ubuntu VM with Docker on it. This helps capitalize on the efficiency from LXCs while also providing flexibility to use Docker (as most OSS are available as Docker images).
 
-![Proxmox Summary](/posts/homelab-journey-1/proxmox-summary.png)
+![Proxmox Summary](/blog/homelab-journey-1/proxmox-summary.png)
 
 
 ## The Patronus Charm: Protecting Against Ad Dementors
@@ -84,7 +84,7 @@ https://dns.cloudflare.com/dns-query
 With AdGuard Home all set up, I updated my router DNS to point to the locally running instance and voila - I started seeing traffic in the AdGuard Dashboard. I was honestly startled by the different devices in the home making network calls and the number of those getting blocked as well. I have been running this setup for over 3 months now and I have seen only one case where things didn't work as expected: Ticketmaster. I just toggled to use cellular data for it, but everything else has been smooth and I sleep well knowing the number of eyes spying on my activity has reduced! The screenshot below shows the stats from my AdGuard Home dashboard for the last 24 hours - 15% of requests blocked!!
 
 
-![AdGuard Home Summary](/posts/homelab-journey-1/adguard-home-summary.png)
+![AdGuard Home Summary](/blog/homelab-journey-1/adguard-home-summary.png)
 
 
 ## Dumbledore's Army: My Growing Service Collection

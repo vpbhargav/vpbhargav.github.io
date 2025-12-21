@@ -14,24 +14,9 @@ services = {}
     title = "Bhargava Varadharajan"
     subtitle = "Software Engineer"
     description = "Engineer with keen interest in distributed systems and scale. Work on ML&AI infra at AWS and always on the lookout for side projects to work on. Outdoorsman with a goal to visit all national parks in the US by 2030."
-    imageUrl = ""
+    imageUrl = "https://avatars.githubusercontent.com/u/9023876?s=400&u=7176849c155eb9cf700ab517cf1ac2321eecb38e&v=4"
     imageTitle = "Bhargava Varadharajan"
-    
-    [[params.profileMode.buttons]]
-      name = "Blog"
-      url = "/posts"
-    
-    [[params.profileMode.buttons]]
-      name = "About"
-      url = "/about"
-    
-    [[params.profileMode.buttons]]
-      name = "Projects"
-      url = "/projects"
-    
-    [[params.profileMode.buttons]]
-      name = "Notes"
-      url = "/notes"
+
 
   # Social icons
   [[params.socialIcons]]
@@ -52,7 +37,7 @@ services = {}
   
   [[params.socialIcons]]
     name = "cv"
-    url = "https://drive.google.com/file/d/1YnHD2AFFOxUgw0s9F6LF0I6xILOOGRts/view?usp=sharing"
+    url = "https://drive.google.com/file/d/1iTNPn-JzgLRPzmBHyi0iOUkiD_rzzjQX/view?usp=sharing"
 
   # Theme settings
   defaultTheme = "dark"
@@ -82,17 +67,17 @@ services = {}
     weight = 10
   
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/posts/"
-    weight = 20
-  
-  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 30
+    weight = 20
   
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 30
+
   [[menu.main]]
     identifier = "projects"
     name = "Projects"

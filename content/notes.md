@@ -12,8 +12,8 @@ searchHidden: false
 ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
+ShowWordCount: false
+ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 cover:
     image: ""
