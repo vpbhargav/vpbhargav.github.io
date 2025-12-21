@@ -2,6 +2,7 @@
 title: "The Half-Blood Admin: A Homelab Origin Story"
 date: 2025-12-19T00:06:34-08:00
 draft: false
+slug: "homelab-journey-1"
 tags: ["homelab", "self-hosting"]
 categories: ["homelab"]
 author: "Bhargav"
