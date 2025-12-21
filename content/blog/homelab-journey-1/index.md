@@ -33,6 +33,8 @@ editPost:
     appendFilePath: true
 ---
 
+![Half-Blood-Admin-Title-Image](/blog/homelab-journey-1/half-blood-admin.png)
+
 ## Platform 9¾: My Gateway to Self-Hosting
 
 Every time I see an ad - especially the ones that are for something I had just recently searched or even discussed about in person (they somehow know!) - it leaves me feeling uneasy. UBlockOrigin is the first thing I install on any machine I set up, and for devices where I haven't been able to install UBlockOrigin, I use alternatives like AdGuard/1Blocker to prevent ads as best as possible. But let's be honest - I was basically playing whack-a-mole with a digital hydra. Block one tracker, two more pop up! 
