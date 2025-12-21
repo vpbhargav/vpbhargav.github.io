@@ -26,3 +26,5 @@ node_modules/
 
 # Hugo cache
 .hugo_build.lock
+
+public/

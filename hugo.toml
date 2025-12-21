@@ -7,10 +7,6 @@ theme = "PaperMod"
 disableKinds = []
 services = {}
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
-
 [params]
   # Profile mode
   [params.profileMode]

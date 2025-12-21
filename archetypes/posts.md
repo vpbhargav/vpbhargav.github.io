@@ -10,7 +10,6 @@ TocOpen: false
 hidemeta: false
 comments: false
 description: ""
-canonicalURL: "https://vpbhargav.github.io/posts/{{ .Name }}/"
 disableHLJS: false
 disableShare: false
 hideSummary: false
